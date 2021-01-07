@@ -1,6 +1,8 @@
 # android_lib_es_compression0_9_9
 
-https://github.com/instantiations/es_compression
+refs : https://github.com/instantiations/es_compression
+
+download link : https://github.com/isong0623/android_lib_es_compression0_9_9/releases/tag/v1.0
 
 It's very easy to build android jni(*.so) library with the following steps:
 
@@ -24,8 +26,11 @@ By the way, I 'Sync' the lib takes 42m 38s long time, build the lib takes 1h 22m
 
 
 my environment:
+
 	Win10 i7-10750H 32GB-RAM CN-REGION
+	
 	Android Studio 4.0.2
+	
 	CMake 3.17.2
 
 Good luck, everyone~
