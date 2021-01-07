@@ -1,6 +1,6 @@
 # android_lib_es_compression0_9_9
 
-cmake refs : https://github.com/instantiations/es_compression/releases/tag/v0.9.9 see /tools/
+cmake refs : https://github.com/instantiations/es_compression/releases/tag/v0.9.9 see /tool/
 
 download link : https://github.com/isong0623/android_lib_es_compression0_9_9/releases/tag/v1.0
 
