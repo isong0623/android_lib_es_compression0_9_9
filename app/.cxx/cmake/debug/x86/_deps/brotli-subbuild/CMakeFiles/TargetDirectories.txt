@@ -1,0 +1,3 @@
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/CMakeFiles/brotli-populate.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/CMakeFiles/rebuild_cache.dir

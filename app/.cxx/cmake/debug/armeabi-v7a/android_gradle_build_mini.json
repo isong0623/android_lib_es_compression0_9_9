@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\brotli\\CMakeLists.txt",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\lz4\\CMakeLists.txt",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\zstd\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe  -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "brotli-Debug-armeabi-v7a": {
+      "artifactName": "brotli",
+      "buildCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" brotli",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\bin\\esbrotli-android32.so",
+      "runtimeFiles": []
+    },
+    "zstd-Debug-armeabi-v7a": {
+      "artifactName": "zstd",
+      "buildCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" zstd",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\bin\\eszstd-android32.so",
+      "runtimeFiles": []
+    },
+    "lz4-Debug-armeabi-v7a": {
+      "artifactName": "lz4",
+      "buildCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" lz4",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\bin\\eslz4-android32.so",
+      "runtimeFiles": []
+    }
+  }
+}

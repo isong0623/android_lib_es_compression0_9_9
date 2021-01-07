@@ -1,0 +1,14 @@
+# Target labels
+ brotli-populate
+# Source files and their labels
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/CMakeFiles/brotli-populate
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/CMakeFiles/brotli-populate.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/CMakeFiles/brotli-populate-complete.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-install.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-mkdir.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-download.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-update.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-patch.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-configure.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-build.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86_64/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-test.rule

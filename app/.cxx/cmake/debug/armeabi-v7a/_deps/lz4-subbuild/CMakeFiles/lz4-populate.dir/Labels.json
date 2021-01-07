@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/CMakeFiles/lz4-populate"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/CMakeFiles/lz4-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/CMakeFiles/lz4-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-update.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-subbuild/lz4-populate-prefix/src/lz4-populate-stamp/lz4-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lz4-populate"
+		],
+		"name" : "lz4-populate"
+	}
+}

@@ -1,0 +1,644 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: arm64-v8a",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found from cmake.dir at \u0027C:\\Program Files\\CMake\u0027 had version \u00273.17.2\u0027",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json due to:",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt, will remove stale json folder",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\u0027",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\u0027",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Program Files\\CMake\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\n-DCMAKE_FIND_ROOT_PATH\u003dC:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dE:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dE:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003dE:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Program Files\\CMake\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-BC:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":2}],\"type\":\"hello\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 2\n  },\n  \"sourceDirectory\": \"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder\",\n  \"buildDirectory\": \"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dC:\\\\Users\\\\Isidore\\\\Desktop\\\\android_lib_es_compression099\\\\app\\\\.cxx\\\\cmake\\\\debug\\\\prefab\\\\arm64-v8a\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dE:\\\\My_Developments\\\\Android\\\\SDK\\\\ndk\\\\21.0.6113669\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003dE:\\\\My_Developments\\\\Android\\\\SDK\\\\ndk\\\\21.0.6113669\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dE:\\\\My_Developments\\\\Android\\\\SDK\\\\ndk\\\\21.0.6113669\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dC:\\\\Users\\\\Isidore\\\\Desktop\\\\android_lib_es_compression099\\\\app\\\\build\\\\intermediates\\\\cmake\\\\debug\\\\obj\\\\arm64-v8a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Program Files\\\\CMake\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\"\n  ]\n}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - works\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - works",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - works\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - works",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake version: 3.17.2\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake version: 3.17.2",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake system name: Android\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake system name: Android",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake build type: Debug\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake build type: Debug",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for log2\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for log2",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for log2 - found\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for log2 - found",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread.h\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for pthread.h",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread.h - found\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for pthread.h - found",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test CMAKE_HAVE_LIBC_PTHREAD\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test CMAKE_HAVE_LIBC_PTHREAD",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread_create in pthreads\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for pthread_create in pthreads",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread_create in pthreads - not found\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for pthread_create in pthreads - not found",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread_create in pthread\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for pthread_create in pthread",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread_create in pthread - not found\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for pthread_create in pthread - not found",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check if compiler accepts -pthread\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check if compiler accepts -pthread",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check if compiler accepts -pthread - yes\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check if compiler accepts -pthread - yes",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found Threads: TRUE  \",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Found Threads: TRUE  ",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Deprecation Warning:\\n  The \u0027cmake-server(7)\u0027 is deprecated.  Please port clients to use the\\n  \u0027cmake-file-api(7)\u0027 instead.\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Deprecation Warning:\r\n  The \u0027cmake-server(7)\u0027 is deprecated.  Please port clients to use the\r\n  \u0027cmake-file-api(7)\u0027 instead.\r\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":100,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":325,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":550,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":775,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineSystem.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Determine.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystem.cmake.in\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Initialize.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompiler.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Determine-C.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeFindBinUtils.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCCompiler.cmake.in\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCXXCompiler.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompiler.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Determine-CXX.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeFindBinUtils.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXCompiler.cmake.in\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeGenericSystem.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Linux.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/UnixPaths.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCInformation.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang-C.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/GNU.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Internal/CMakeCheckCompilerFlag.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Clang-C.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Clang.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseImplicitIncludeInfo.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCCompilerABI.c\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Internal/FeatureTesting.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCCompiler.cmake.in\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXInformation.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang-CXX.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Clang-CXX.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Clang.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCXXCompiler.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseImplicitIncludeInfo.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/Internal/FeatureTesting.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXCompiler.cmake.in\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent/CMakeLists.cmake.in\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.c\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent/CMakeLists.cmake.in\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent/CMakeLists.cmake.in\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/FindThreads.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CheckLibraryExists.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CheckIncludeFile.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CheckCSourceCompiles.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CheckIncludeFile.c.in\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.c\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.c\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/CheckForPthreads.c\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake\",\"C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageMessage.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"E:/My_Developments/Android/SDK/ndk/21.0.6113669/build/cmake/android.toolchain.cmake\",\"E:/My_Developments/Android/SDK/ndk/21.0.6113669/build/cmake/platforms.cmake\",\"E:/My_Developments/Android/SDK/ndk/21.0.6113669/build/cmake/android.toolchain.cmake\",\"brotli/CMakeLists.txt\",\"lz4/CMakeLists.txt\",\"zstd/CMakeLists.txt\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.17.2/CMakeSystem.cmake\",\"../../../app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.17.2/CMakeCCompiler.cmake\",\"../../../app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.17.2/CMakeCXXCompiler.cmake\",\"../../../app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.17.2/CMakeCCompiler.cmake\",\"../../../app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.17.2/CMakeCXXCompiler.cmake\",\"../../../app/.cxx/cmake/debug/arm64-v8a/brotli/sources.lst.cmake\"]}],\"cmakeRootDirectory\":\"C:/Program Files/CMake/share/cmake-3.17\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder\",\"type\":\"reply\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/brotli\",\"hasInstallRule\":false,\"minimumCMakeVersion\":\"3.6.0\",\"name\":\"BROTLI_BLOB\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/brotli\",\"targets\":[{\"artifacts\":[\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/bin/esbrotli-android64.so\"],\"buildDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/brotli\",\"fileGroups\":[{\"compileFlags\":\"-std\u003dc99 -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"BROTLI_HAVE_LOG2\u003d1\",\"brotli_EXPORTS\"],\"includePath\":[{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common\"},{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/include\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common/constants.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common/context.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common/dictionary.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common/platform.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common/transform.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/dec/bit_reader.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/dec/decode.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/dec/huffman.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/dec/state.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/backward_references.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/backward_references_hq.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/bit_cost.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/block_splitter.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/brotli_bit_stream.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/cluster.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/command.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/compress_fragment.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/compress_fragment_two_pass.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/dictionary_hash.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/encode.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/encoder_dict.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/entropy_encode.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/fast_log.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/histogram.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/literal_cost.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/memory.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/metablock.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/static_dict.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/utf8_util.c\"]}],\"fullName\":\"esbrotli-android64.so\",\"isGeneratorProvided\":false,\"linkFlags\":\"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"brotli\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/brotli\",\"sysroot\":\"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]},{\"buildDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/lz4\",\"hasInstallRule\":false,\"minimumCMakeVersion\":\"3.6.0\",\"name\":\"LZ4_BLOB\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/lz4\",\"targets\":[{\"artifacts\":[\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/bin/eslz4-android64.so\"],\"buildDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/lz4\",\"fileGroups\":[{\"isGenerated\":false,\"sources\":[\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4.h\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4hc.h\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4frame.h\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/xxhash.h\"]},{\"compileFlags\":\"-std\u003dc99 -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"lz4_EXPORTS\"],\"includePath\":[{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4hc.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4frame.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/xxhash.c\"]}],\"fullName\":\"eslz4-android64.so\",\"isGeneratorProvided\":false,\"linkFlags\":\"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"lz4\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/lz4\",\"sysroot\":\"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]},{\"buildDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/zstd\",\"hasInstallRule\":false,\"minimumCMakeVersion\":\"3.6.0\",\"name\":\"ZSTD_BLOB\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/zstd\",\"targets\":[{\"artifacts\":[\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/bin/eszstd-android64.so\"],\"buildDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/zstd\",\"fileGroups\":[{\"compileFlags\":\"-std\u003dc99 -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"ZSTD_MULTITHREAD\",\"zstd_EXPORTS\"],\"includePath\":[{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib\"},{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common\"},{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress\"},{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/decompress\"},{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/dictBuilder\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/debug.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/entropy_common.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/error_private.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/fse_decompress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/pool.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/threading.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/xxhash.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/zstd_common.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/fse_compress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/hist.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/huf_compress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstdmt_compress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_compress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_compress_literals.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_compress_sequences.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_compress_superblock.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_double_fast.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_fast.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_lazy.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_ldm.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_opt.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/decompress/huf_decompress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/decompress/zstd_ddict.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/decompress/zstd_decompress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/decompress/zstd_decompress_block.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/dictBuilder/cover.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/dictBuilder/divsufsort.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/dictBuilder/fastcover.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/dictBuilder/zdict.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/deprecated/zbuff_common.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/deprecated/zbuff_compress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/deprecated/zbuff_decompress.c\"]}],\"fullName\":\"eszstd-android64.so\",\"isGeneratorProvided\":false,\"linkFlags\":\"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-pthread  -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"zstd\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/zstd\",\"sysroot\":\"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]},{\"buildDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a\",\"hasInstallRule\":false,\"minimumCMakeVersion\":\"3.6.0\",\"name\":\"es_compression_blobs\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder\",\"targets\":[{\"artifacts\":[\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/bin/esbrotli-android64.so\"],\"buildDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/brotli\",\"fileGroups\":[{\"compileFlags\":\"-std\u003dc99 -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"BROTLI_HAVE_LOG2\u003d1\",\"brotli_EXPORTS\"],\"includePath\":[{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common\"},{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/include\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common/constants.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common/context.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common/dictionary.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common/platform.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/common/transform.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/dec/bit_reader.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/dec/decode.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/dec/huffman.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/dec/state.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/backward_references.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/backward_references_hq.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/bit_cost.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/block_splitter.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/brotli_bit_stream.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/cluster.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/command.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/compress_fragment.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/compress_fragment_two_pass.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/dictionary_hash.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/encode.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/encoder_dict.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/entropy_encode.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/fast_log.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/histogram.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/literal_cost.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/memory.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/metablock.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/static_dict.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/brotli-src/c/enc/utf8_util.c\"]}],\"fullName\":\"esbrotli-android64.so\",\"isGeneratorProvided\":false,\"linkFlags\":\"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"brotli\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/brotli\",\"sysroot\":\"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/bin/eszstd-android64.so\"],\"buildDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/zstd\",\"fileGroups\":[{\"compileFlags\":\"-std\u003dc99 -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"ZSTD_MULTITHREAD\",\"zstd_EXPORTS\"],\"includePath\":[{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib\"},{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common\"},{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress\"},{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/decompress\"},{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/dictBuilder\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/debug.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/entropy_common.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/error_private.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/fse_decompress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/pool.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/threading.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/xxhash.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/common/zstd_common.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/fse_compress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/hist.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/huf_compress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstdmt_compress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_compress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_compress_literals.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_compress_sequences.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_compress_superblock.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_double_fast.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_fast.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_lazy.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_ldm.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/compress/zstd_opt.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/decompress/huf_decompress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/decompress/zstd_ddict.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/decompress/zstd_decompress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/decompress/zstd_decompress_block.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/dictBuilder/cover.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/dictBuilder/divsufsort.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/dictBuilder/fastcover.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/dictBuilder/zdict.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/deprecated/zbuff_common.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/deprecated/zbuff_compress.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/zstd-src/lib/deprecated/zbuff_decompress.c\"]}],\"fullName\":\"eszstd-android64.so\",\"isGeneratorProvided\":false,\"linkFlags\":\"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-pthread  -latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"zstd\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/zstd\",\"sysroot\":\"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/bin/eslz4-android64.so\"],\"buildDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/lz4\",\"fileGroups\":[{\"isGenerated\":false,\"sources\":[\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4.h\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4hc.h\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4frame.h\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/xxhash.h\"]},{\"compileFlags\":\"-std\u003dc99 -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"lz4_EXPORTS\"],\"includePath\":[{\"path\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4hc.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/lz4frame.c\",\"../../../../app/.cxx/cmake/debug/arm64-v8a/_deps/lz4-src/lib/xxhash.c\"]}],\"fullName\":\"eslz4-android64.so\",\"isGeneratorProvided\":false,\"linkFlags\":\"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-latomic -lm\",\"linkerLanguage\":\"C\",\"name\":\"lz4\",\"sourceDirectory\":\"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/lz4\",\"sysroot\":\"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  }
+]

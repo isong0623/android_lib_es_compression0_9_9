@@ -1,0 +1,10 @@
+Executable : C:\Program
+arguments : 
+Files\CMake\bin\ninja.exe
+-C
+C:\Users\Isidore\Desktop\android_lib_es_compression099\app\.cxx\cmake\debug\armeabi-v7a
+brotli
+lz4
+zstd
+jvmArgs : 
+

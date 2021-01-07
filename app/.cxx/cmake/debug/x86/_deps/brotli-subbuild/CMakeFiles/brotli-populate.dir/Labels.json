@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/CMakeFiles/brotli-populate"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/CMakeFiles/brotli-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/CMakeFiles/brotli-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-update.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-subbuild/brotli-populate-prefix/src/brotli-populate-stamp/brotli-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"brotli-populate"
+		],
+		"name" : "brotli-populate"
+	}
+}

@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\brotli\\CMakeLists.txt",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\lz4\\CMakeLists.txt",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\zstd\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe  -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "zstd-Debug-x86_64": {
+      "artifactName": "zstd",
+      "buildCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\x86_64\" zstd",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\x86_64\\bin\\eszstd-android64.so",
+      "runtimeFiles": []
+    },
+    "brotli-Debug-x86_64": {
+      "artifactName": "brotli",
+      "buildCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\x86_64\" brotli",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\x86_64\\bin\\esbrotli-android64.so",
+      "runtimeFiles": []
+    },
+    "lz4-Debug-x86_64": {
+      "artifactName": "lz4",
+      "buildCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\x86_64\" lz4",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\x86_64\\bin\\eslz4-android64.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,391 @@
+[
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\common\\constants.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\common\\constants.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/common/constants.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\common\\context.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\common\\context.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/common/context.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\common\\dictionary.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\common\\dictionary.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/common/dictionary.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\common\\platform.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\common\\platform.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/common/platform.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\common\\transform.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\common\\transform.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/common/transform.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\dec\\bit_reader.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\dec\\bit_reader.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/dec/bit_reader.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\dec\\decode.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\dec\\decode.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/dec/decode.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\dec\\huffman.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\dec\\huffman.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/dec/huffman.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\dec\\state.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\dec\\state.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/dec/state.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\backward_references.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\backward_references.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/backward_references.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\backward_references_hq.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\backward_references_hq.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/backward_references_hq.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\bit_cost.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\bit_cost.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/bit_cost.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\block_splitter.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\block_splitter.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/block_splitter.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\brotli_bit_stream.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\brotli_bit_stream.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/brotli_bit_stream.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\cluster.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\cluster.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/cluster.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\command.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\command.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/command.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\compress_fragment.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\compress_fragment.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/compress_fragment.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\compress_fragment_two_pass.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\compress_fragment_two_pass.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/compress_fragment_two_pass.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\dictionary_hash.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\dictionary_hash.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/dictionary_hash.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\encode.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\encode.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/encode.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\encoder_dict.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\encoder_dict.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/encoder_dict.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\entropy_encode.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\entropy_encode.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/entropy_encode.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\fast_log.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\fast_log.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/fast_log.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\histogram.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\histogram.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/histogram.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\literal_cost.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\literal_cost.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/literal_cost.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\memory.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\memory.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/memory.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\metablock.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\metablock.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/metablock.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\static_dict.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\static_dict.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/static_dict.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DBROTLI_HAVE_LOG2=0 -Dbrotli_EXPORTS -I_deps/brotli-src/c/common -I_deps/brotli-src/c/include  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o brotli\\CMakeFiles\\brotli.dir\\__\\_deps\\brotli-src\\c\\enc\\utf8_util.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\brotli-src\\c\\enc\\utf8_util.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/brotli-src/c/enc/utf8_util.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dlz4_EXPORTS -I_deps/lz4-src/lib  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o lz4\\CMakeFiles\\lz4.dir\\__\\_deps\\lz4-src\\lib\\lz4.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\lz4-src\\lib\\lz4.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-src/lib/lz4.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dlz4_EXPORTS -I_deps/lz4-src/lib  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o lz4\\CMakeFiles\\lz4.dir\\__\\_deps\\lz4-src\\lib\\lz4hc.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\lz4-src\\lib\\lz4hc.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-src/lib/lz4hc.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dlz4_EXPORTS -I_deps/lz4-src/lib  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o lz4\\CMakeFiles\\lz4.dir\\__\\_deps\\lz4-src\\lib\\lz4frame.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\lz4-src\\lib\\lz4frame.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-src/lib/lz4frame.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dlz4_EXPORTS -I_deps/lz4-src/lib  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o lz4\\CMakeFiles\\lz4.dir\\__\\_deps\\lz4-src\\lib\\xxhash.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\lz4-src\\lib\\xxhash.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/lz4-src/lib/xxhash.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\common\\debug.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\common\\debug.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/common/debug.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\common\\entropy_common.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\common\\entropy_common.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/common/entropy_common.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\common\\error_private.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\common\\error_private.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/common/error_private.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\common\\fse_decompress.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\common\\fse_decompress.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/common/fse_decompress.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\common\\pool.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\common\\pool.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/common/pool.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\common\\threading.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\common\\threading.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/common/threading.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\common\\xxhash.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\common\\xxhash.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/common/xxhash.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\common\\zstd_common.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\common\\zstd_common.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/common/zstd_common.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\fse_compress.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\fse_compress.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/fse_compress.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\hist.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\hist.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/hist.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\huf_compress.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\huf_compress.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/huf_compress.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\zstdmt_compress.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\zstdmt_compress.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/zstdmt_compress.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\zstd_compress.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\zstd_compress.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/zstd_compress.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\zstd_compress_literals.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\zstd_compress_literals.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/zstd_compress_literals.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\zstd_compress_sequences.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\zstd_compress_sequences.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/zstd_compress_sequences.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\zstd_compress_superblock.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\zstd_compress_superblock.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/zstd_compress_superblock.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\zstd_double_fast.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\zstd_double_fast.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/zstd_double_fast.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\zstd_fast.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\zstd_fast.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/zstd_fast.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\zstd_lazy.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\zstd_lazy.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/zstd_lazy.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\zstd_ldm.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\zstd_ldm.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/zstd_ldm.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\compress\\zstd_opt.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\compress\\zstd_opt.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/compress/zstd_opt.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\decompress\\huf_decompress.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\decompress\\huf_decompress.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/decompress/huf_decompress.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\decompress\\zstd_ddict.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\decompress\\zstd_ddict.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/decompress/zstd_ddict.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\decompress\\zstd_decompress.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\decompress\\zstd_decompress.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/decompress/zstd_decompress.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\decompress\\zstd_decompress_block.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\decompress\\zstd_decompress_block.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/decompress/zstd_decompress_block.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\dictBuilder\\cover.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\dictBuilder\\cover.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/dictBuilder/cover.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\dictBuilder\\divsufsort.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\dictBuilder\\divsufsort.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/dictBuilder/divsufsort.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\dictBuilder\\fastcover.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\dictBuilder\\fastcover.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/dictBuilder/fastcover.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\dictBuilder\\zdict.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\dictBuilder\\zdict.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/dictBuilder/zdict.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\deprecated\\zbuff_common.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\deprecated\\zbuff_common.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/deprecated/zbuff_common.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\deprecated\\zbuff_compress.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\deprecated\\zbuff_compress.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/deprecated/zbuff_compress.c"
+},
+
+{
+  "directory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DZSTD_MULTITHREAD -Dzstd_EXPORTS -I_deps/zstd-src/lib -I_deps/zstd-src/lib/common -I_deps/zstd-src/lib/compress -I_deps/zstd-src/lib/decompress -I_deps/zstd-src/lib/dictBuilder  -std=c99 -O0 -fno-limit-debug-info  -fPIC   -o zstd\\CMakeFiles\\zstd.dir\\__\\_deps\\zstd-src\\lib\\deprecated\\zbuff_decompress.c.o   -c C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\_deps\\zstd-src\\lib\\deprecated\\zbuff_decompress.c",
+  "file": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/armeabi-v7a/_deps/zstd-src/lib/deprecated/zbuff_decompress.c"
+}
+]

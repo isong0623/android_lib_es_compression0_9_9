@@ -1,0 +1,11 @@
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/brotli/CMakeFiles/rebuild_cache.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/brotli/CMakeFiles/brotli.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/brotli/CMakeFiles/edit_cache.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/lz4/CMakeFiles/rebuild_cache.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/lz4/CMakeFiles/lz4.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/lz4/CMakeFiles/edit_cache.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/zstd/CMakeFiles/zstd.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/zstd/CMakeFiles/edit_cache.dir
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/arm64-v8a/zstd/CMakeFiles/rebuild_cache.dir

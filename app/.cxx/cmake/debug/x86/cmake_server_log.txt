@@ -1,0 +1,594 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":2}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 2
+  },
+  "sourceDirectory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder",
+  "buildDirectory": "C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DCMAKE_FIND_ROOT_PATH\u003dC:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\prefab\\x86\\prefab",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dE:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "-DANDROID_ABI\u003dx86",
+    "-DANDROID_NDK\u003dE:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669",
+    "-DANDROID_PLATFORM\u003dandroid-16",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86",
+    "-DCMAKE_ANDROID_NDK\u003dE:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\build\\intermediates\\cmake\\debug\\obj\\x86",
+    "-DCMAKE_MAKE_PROGRAM\u003dC:\\Program Files\\CMake\\bin\\ninja.exe",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_SYSTEM_VERSION\u003d16"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+CMAKE SERVER: Check for working C compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":33,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - works","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - works
+CMAKE SERVER: Check for working C compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - works
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compiler ABI info","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compiler ABI info
+CMAKE SERVER: Detecting C compiler ABI info
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":65,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compiler ABI info - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compiler ABI info - done
+CMAKE SERVER: Detecting C compiler ABI info - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compile features","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compile features
+CMAKE SERVER: Detecting C compile features
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compile features - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compile features - done
+CMAKE SERVER: Detecting C compile features - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working CXX compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+CMAKE SERVER: Check for working CXX compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":96,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - works","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working CXX compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - works
+CMAKE SERVER: Check for working CXX compiler: E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - works
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compiler ABI info","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compiler ABI info
+CMAKE SERVER: Detecting CXX compiler ABI info
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":126,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compiler ABI info - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compiler ABI info - done
+CMAKE SERVER: Detecting CXX compiler ABI info - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compile features","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compile features
+CMAKE SERVER: Detecting CXX compile features
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compile features - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compile features - done
+CMAKE SERVER: Detecting CXX compile features - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake version: 3.17.2","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake version: 3.17.2
+CMAKE SERVER: CMake version: 3.17.2
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake system name: Android","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake system name: Android
+CMAKE SERVER: CMake system name: Android
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake build type: Debug","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake build type: Debug
+CMAKE SERVER: CMake build type: Debug
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":155,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for log2","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for log2
+CMAKE SERVER: Looking for log2
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":184,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for log2 - not found","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for log2 - not found
+CMAKE SERVER: Looking for log2 - not found
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for log2","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for log2
+CMAKE SERVER: Looking for log2
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":211,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for log2 - not found","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for log2 - not found
+CMAKE SERVER: Looking for log2 - not found
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":237,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":262,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for pthread.h","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for pthread.h
+CMAKE SERVER: Looking for pthread.h
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":287,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for pthread.h - found","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for pthread.h - found
+CMAKE SERVER: Looking for pthread.h - found
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Performing Test CMAKE_HAVE_LIBC_PTHREAD","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Performing Test CMAKE_HAVE_LIBC_PTHREAD
+CMAKE SERVER: Performing Test CMAKE_HAVE_LIBC_PTHREAD
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":311,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+CMAKE SERVER: Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for pthread_create in pthreads","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for pthread_create in pthreads
+CMAKE SERVER: Looking for pthread_create in pthreads
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":334,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for pthread_create in pthreads - not found","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for pthread_create in pthreads - not found
+CMAKE SERVER: Looking for pthread_create in pthreads - not found
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for pthread_create in pthread","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for pthread_create in pthread
+CMAKE SERVER: Looking for pthread_create in pthread
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":356,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Looking for pthread_create in pthread - not found","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Looking for pthread_create in pthread - not found
+CMAKE SERVER: Looking for pthread_create in pthread - not found
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check if compiler accepts -pthread","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check if compiler accepts -pthread
+CMAKE SERVER: Check if compiler accepts -pthread
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":377,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check if compiler accepts -pthread - yes","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check if compiler accepts -pthread - yes
+CMAKE SERVER: Check if compiler accepts -pthread - yes
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Found Threads: TRUE  ","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Found Threads: TRUE  
+CMAKE SERVER: Found Threads: TRUE  
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Configuring done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuring done
+CMAKE SERVER: Configuring done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Deprecation Warning:\n  The 'cmake-server(7)' is deprecated.  Please port clients to use the\n  'cmake-file-api(7)' instead.\n\n","title":"Warning","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Deprecation Warning:
+  The 'cmake-server(7)' is deprecated.  Please port clients to use the
+  'cmake-file-api(7)' instead.
+
+CMAKE SERVER: CMake Deprecation Warning:
+  The 'cmake-server(7)' is deprecated.  Please port clients to use the
+  'cmake-file-api(7)' instead.
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"compute"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":100,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":325,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":550,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":775,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","message":"Generating done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Generating done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"cmakeInputs"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineSystem.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Determine.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystem.cmake.in","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Initialize.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompiler.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Determine-C.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android/Determine-Compiler.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeFindBinUtils.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang-FindBinUtils.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCCompiler.cmake.in","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCXXCompiler.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompiler.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Determine-CXX.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android/Determine-Compiler.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeFindBinUtils.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang-FindBinUtils.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXCompiler.cmake.in","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeGenericSystem.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Linux.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/UnixPaths.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCInformation.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang-C.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/GNU.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Internal/CMakeCheckCompilerFlag.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Clang-C.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Clang.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompilerABI.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseImplicitIncludeInfo.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseImplicitLinkInfo.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCCompilerABI.c","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompileFeatures.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Internal/FeatureTesting.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCCompiler.cmake.in","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXInformation.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang-CXX.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/Clang.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Clang-CXX.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Android-Clang.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCXXCompiler.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompilerABI.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseImplicitIncludeInfo.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeParseImplicitLinkInfo.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeDetermineCompileFeatures.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/Internal/FeatureTesting.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXCompiler.cmake.in","C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent/CMakeLists.cmake.in","C:/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.c","C:/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.c","C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent/CMakeLists.cmake.in","C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/FetchContent/CMakeLists.cmake.in","C:/Program Files/CMake/share/cmake-3.17/Modules/FindThreads.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CheckLibraryExists.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CheckIncludeFile.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CheckCSourceCompiles.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/CheckIncludeFile.c.in","C:/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.c","C:/Program Files/CMake/share/cmake-3.17/Modules/CheckFunctionExists.c","C:/Program Files/CMake/share/cmake-3.17/Modules/CheckForPthreads.c","C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake","C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageMessage.cmake"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","E:/My_Developments/Android/SDK/ndk/21.0.6113669/build/cmake/android.toolchain.cmake","E:/My_Developments/Android/SDK/ndk/21.0.6113669/build/cmake/platforms.cmake","E:/My_Developments/Android/SDK/ndk/21.0.6113669/build/cmake/android.toolchain.cmake","brotli/CMakeLists.txt","lz4/CMakeLists.txt","zstd/CMakeLists.txt"]},{"isCMake":false,"isTemporary":true,"sources":["../../../app/.cxx/cmake/debug/x86/CMakeFiles/3.17.2/CMakeSystem.cmake","../../../app/.cxx/cmake/debug/x86/CMakeFiles/3.17.2/CMakeCCompiler.cmake","../../../app/.cxx/cmake/debug/x86/CMakeFiles/3.17.2/CMakeCXXCompiler.cmake","../../../app/.cxx/cmake/debug/x86/CMakeFiles/3.17.2/CMakeCCompiler.cmake","../../../app/.cxx/cmake/debug/x86/CMakeFiles/3.17.2/CMakeCXXCompiler.cmake","../../../app/.cxx/cmake/debug/x86/brotli/sources.lst.cmake"]}],"cmakeRootDirectory":"C:/Program Files/CMake/share/cmake-3.17","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"codemodel"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"configurations":[{"name":"Debug","projects":[{"buildDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/brotli","hasInstallRule":false,"minimumCMakeVersion":"3.6.0","name":"BROTLI_BLOB","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/brotli","targets":[{"artifacts":["C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/bin/esbrotli-android32.so"],"buildDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/brotli","fileGroups":[{"compileFlags":"-std=c99 -O0 -fno-limit-debug-info  -fPIC  ","defines":["BROTLI_HAVE_LOG2=0","brotli_EXPORTS"],"includePath":[{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common"},{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-src/c/include"}],"isGenerated":false,"language":"C","sources":["../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common/constants.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common/context.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common/dictionary.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common/platform.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common/transform.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/dec/bit_reader.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/dec/decode.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/dec/huffman.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/dec/state.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/backward_references.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/backward_references_hq.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/bit_cost.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/block_splitter.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/brotli_bit_stream.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/cluster.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/command.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/compress_fragment.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/compress_fragment_two_pass.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/dictionary_hash.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/encode.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/encoder_dict.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/entropy_encode.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/fast_log.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/histogram.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/literal_cost.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/memory.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/metablock.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/static_dict.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/utf8_util.c"]}],"fullName":"esbrotli-android32.so","isGeneratorProvided":false,"linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-latomic -lm","linkerLanguage":"C","name":"brotli","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/brotli","sysroot":"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/lz4","hasInstallRule":false,"minimumCMakeVersion":"3.6.0","name":"LZ4_BLOB","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/lz4","targets":[{"artifacts":["C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/bin/eslz4-android32.so"],"buildDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/lz4","fileGroups":[{"isGenerated":false,"sources":["../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4.h","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4hc.h","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4frame.h","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/xxhash.h"]},{"compileFlags":"-std=c99 -O0 -fno-limit-debug-info  -fPIC  ","defines":["lz4_EXPORTS"],"includePath":[{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/lz4-src/lib"}],"isGenerated":false,"language":"C","sources":["../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4.c","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4hc.c","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4frame.c","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/xxhash.c"]}],"fullName":"eslz4-android32.so","isGeneratorProvided":false,"linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-latomic -lm","linkerLanguage":"C","name":"lz4","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/lz4","sysroot":"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/zstd","hasInstallRule":false,"minimumCMakeVersion":"3.6.0","name":"ZSTD_BLOB","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/zstd","targets":[{"artifacts":["C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/bin/eszstd-android32.so"],"buildDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/zstd","fileGroups":[{"compileFlags":"-std=c99 -O0 -fno-limit-debug-info  -fPIC  ","defines":["ZSTD_MULTITHREAD","zstd_EXPORTS"],"includePath":[{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-src/lib"},{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common"},{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress"},{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/decompress"},{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/dictBuilder"}],"isGenerated":false,"language":"C","sources":["../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/debug.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/entropy_common.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/error_private.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/fse_decompress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/pool.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/threading.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/xxhash.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/zstd_common.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/fse_compress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/hist.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/huf_compress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstdmt_compress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_compress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_compress_literals.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_compress_sequences.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_compress_superblock.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_double_fast.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_fast.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_lazy.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_ldm.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_opt.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/decompress/huf_decompress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/decompress/zstd_ddict.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/decompress/zstd_decompress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/decompress/zstd_decompress_block.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/dictBuilder/cover.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/dictBuilder/divsufsort.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/dictBuilder/fastcover.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/dictBuilder/zdict.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/deprecated/zbuff_common.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/deprecated/zbuff_compress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/deprecated/zbuff_decompress.c"]}],"fullName":"eszstd-android32.so","isGeneratorProvided":false,"linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-pthread  -latomic -lm","linkerLanguage":"C","name":"zstd","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/zstd","sysroot":"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86","hasInstallRule":false,"minimumCMakeVersion":"3.6.0","name":"es_compression_blobs","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder","targets":[{"artifacts":["C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/bin/eszstd-android32.so"],"buildDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/zstd","fileGroups":[{"compileFlags":"-std=c99 -O0 -fno-limit-debug-info  -fPIC  ","defines":["ZSTD_MULTITHREAD","zstd_EXPORTS"],"includePath":[{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-src/lib"},{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common"},{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress"},{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/decompress"},{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/dictBuilder"}],"isGenerated":false,"language":"C","sources":["../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/debug.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/entropy_common.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/error_private.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/fse_decompress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/pool.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/threading.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/xxhash.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/common/zstd_common.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/fse_compress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/hist.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/huf_compress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstdmt_compress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_compress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_compress_literals.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_compress_sequences.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_compress_superblock.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_double_fast.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_fast.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_lazy.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_ldm.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/compress/zstd_opt.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/decompress/huf_decompress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/decompress/zstd_ddict.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/decompress/zstd_decompress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/decompress/zstd_decompress_block.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/dictBuilder/cover.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/dictBuilder/divsufsort.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/dictBuilder/fastcover.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/dictBuilder/zdict.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/deprecated/zbuff_common.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/deprecated/zbuff_compress.c","../../../../app/.cxx/cmake/debug/x86/_deps/zstd-src/lib/deprecated/zbuff_decompress.c"]}],"fullName":"eszstd-android32.so","isGeneratorProvided":false,"linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-pthread  -latomic -lm","linkerLanguage":"C","name":"zstd","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/zstd","sysroot":"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/bin/esbrotli-android32.so"],"buildDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/brotli","fileGroups":[{"compileFlags":"-std=c99 -O0 -fno-limit-debug-info  -fPIC  ","defines":["BROTLI_HAVE_LOG2=0","brotli_EXPORTS"],"includePath":[{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common"},{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/brotli-src/c/include"}],"isGenerated":false,"language":"C","sources":["../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common/constants.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common/context.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common/dictionary.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common/platform.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/common/transform.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/dec/bit_reader.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/dec/decode.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/dec/huffman.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/dec/state.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/backward_references.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/backward_references_hq.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/bit_cost.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/block_splitter.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/brotli_bit_stream.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/cluster.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/command.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/compress_fragment.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/compress_fragment_two_pass.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/dictionary_hash.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/encode.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/encoder_dict.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/entropy_encode.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/fast_log.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/histogram.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/literal_cost.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/memory.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/metablock.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/static_dict.c","../../../../app/.cxx/cmake/debug/x86/_deps/brotli-src/c/enc/utf8_util.c"]}],"fullName":"esbrotli-android32.so","isGeneratorProvided":false,"linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-latomic -lm","linkerLanguage":"C","name":"brotli","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/brotli","sysroot":"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/bin/eslz4-android32.so"],"buildDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/lz4","fileGroups":[{"isGenerated":false,"sources":["../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4.h","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4hc.h","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4frame.h","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/xxhash.h"]},{"compileFlags":"-std=c99 -O0 -fno-limit-debug-info  -fPIC  ","defines":["lz4_EXPORTS"],"includePath":[{"path":"C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/lz4-src/lib"}],"isGenerated":false,"language":"C","sources":["../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4.c","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4hc.c","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/lz4frame.c","../../../../app/.cxx/cmake/debug/x86/_deps/lz4-src/lib/xxhash.c"]}],"fullName":"eslz4-android32.so","isGeneratorProvided":false,"linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-latomic -lm","linkerLanguage":"C","name":"lz4","sourceDirectory":"C:/Users/Isidore/Desktop/android_lib_es_compression099/es_compression-0.9.9/tool/blob_builder/lz4","sysroot":"E:/My_Developments/Android/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/es_compression-0.9.9/tool/blob_builder/build/_deps/brotli-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/es_compression-0.9.9/tool/blob_builder/build/_deps/brotli-src/research/esaxx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/es_compression-0.9.9/tool/blob_builder/build/_deps/brotli-src/research/libdivsufsort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/es_compression-0.9.9/tool/blob_builder/build/_deps/lz4-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/es_compression-0.9.9/tool/blob_builder/build/_deps/zstd-src" vcs="Git" />
+  </component>
+</project>

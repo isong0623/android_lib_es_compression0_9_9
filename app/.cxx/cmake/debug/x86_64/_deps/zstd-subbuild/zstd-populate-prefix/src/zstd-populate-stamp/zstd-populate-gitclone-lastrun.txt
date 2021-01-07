@@ -1,0 +1,3 @@
+repository='https://github.com/facebook/zstd.git'
+module=''
+tag='origin'

@@ -1,0 +1,14 @@
+# Target labels
+ zstd-populate
+# Source files and their labels
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/CMakeFiles/zstd-populate
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/CMakeFiles/zstd-populate.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/CMakeFiles/zstd-populate-complete.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-install.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-mkdir.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-download.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-update.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-patch.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-configure.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-build.rule
+C:/Users/Isidore/Desktop/android_lib_es_compression099/app/.cxx/cmake/debug/x86/_deps/zstd-subbuild/zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-test.rule

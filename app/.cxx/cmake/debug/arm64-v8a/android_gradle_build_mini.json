@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "E:\\My_Developments\\Android\\SDK\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\brotli\\CMakeLists.txt",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\lz4\\CMakeLists.txt",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\CMakeLists.txt",
+    "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\es_compression-0.9.9\\tool\\blob_builder\\zstd\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe  -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "lz4-Debug-arm64-v8a": {
+      "artifactName": "lz4",
+      "buildCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\" lz4",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\\bin\\eslz4-android64.so",
+      "runtimeFiles": []
+    },
+    "brotli-Debug-arm64-v8a": {
+      "artifactName": "brotli",
+      "buildCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\" brotli",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\\bin\\esbrotli-android64.so",
+      "runtimeFiles": []
+    },
+    "zstd-Debug-arm64-v8a": {
+      "artifactName": "zstd",
+      "buildCommand": "C:\\Program Files\\CMake\\bin\\ninja.exe -C \"C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\" zstd",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\Isidore\\Desktop\\android_lib_es_compression099\\app\\.cxx\\cmake\\debug\\arm64-v8a\\bin\\eszstd-android64.so",
+      "runtimeFiles": []
+    }
+  }
+}

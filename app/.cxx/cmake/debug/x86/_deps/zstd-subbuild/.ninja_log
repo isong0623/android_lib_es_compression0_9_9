@@ -1,0 +1,11 @@
+# ninja log v5
+0	299	631716490	zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-mkdir	3c7b20aec2eb7a88
+299	46568	631716536	zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-download	93394438839a35bc
+46600	46692	631716536	zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-patch	1ab397f49a338537
+46569	46769	0	zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-update	9b3f77e78b1949b4
+46769	46882	631716537	zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-configure	447c720be4724cbf
+46882	46990	631716537	zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-build	b0f20c9deb69ead7
+46990	47087	631716537	zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-install	6e64c843c79d8f1a
+47088	47175	631716537	zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-test	b4a676f3ca76b775
+47175	47280	631716537	CMakeFiles/zstd-populate-complete	419e7073b09ab1a1
+47175	47280	631716537	zstd-populate-prefix/src/zstd-populate-stamp/zstd-populate-done	419e7073b09ab1a1
