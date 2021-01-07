@@ -1,6 +1,6 @@
 # android_lib_es_compression0_9_9
 
-refs : https://github.com/instantiations/es_compression
+cmake refs : https://github.com/instantiations/es_compression/releases/tag/v0.9.9 see /tools/
 
 download link : https://github.com/isong0623/android_lib_es_compression0_9_9/releases/tag/v1.0
 
@@ -12,7 +12,7 @@ It's very easy to build android jni(*.so) library with the following steps:
 
 3、Copy #{Android_SDK_Path}/cmake/3.10.2.4988404/bin/ninja.exe to #{CMake_Install_Path}/bin/
 
-4、Clone or download the latest version of es_compression(9.9.0)
+4、Clone or download the latest version of es_compression(0.9.9)
 
 5、New Android C++ native project, modify #{Project_Path}/app/build.gradle, edit defaultConfig->externalNativeBuild->path with value #{es_compression-0.9.9_Path}/tool/blob_builder/CMakeLists.txt,edit defaultConfig->externalNativeBuild->version with value #{CMAKE_VERSION}
 
